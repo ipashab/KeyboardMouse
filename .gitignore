@@ -1,0 +1,9 @@
+# SPM
+.build/
+
+# Артефакты сборки
+build/
+*.dmg
+
+# macOS
+.DS_Store
